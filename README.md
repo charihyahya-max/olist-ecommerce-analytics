@@ -124,7 +124,7 @@ Keep only recommendations supported by the results.
 
 - **Name:** Yahya Charih
 - **GitHub:** https://github.com/charihyahya-max
-- **Project Repository:** https://github.com/charihyahya-max/olist-analysis
+- **Project Repository:** https://github.com/charihyahya-max/olist-ecommerce-analytics.git
 
 Replace the placeholders above with your own information.
 
