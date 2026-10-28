@@ -38,7 +38,7 @@ olist-analysis/
 │       ├── olist_order_payments_dataset.csv
 │       ├── olist_order_reviews_dataset.csv
 │       └── olist_sellers_dataset.csv
-├── olist_analysis_final.ipynb
+├── olist_analysis.ipynb
 ├── outputs/
 │   └── figures/
 └── README.md
@@ -68,7 +68,7 @@ From the project directory, run:
 jupyter notebook
 ```
 
-Open `olist_analysis_final.ipynb` and execute the notebook from top to bottom using **Run All**.
+Open `olist_analysis.ipynb` and execute the notebook from top to bottom using **Run All**.
 
 > Note: The notebook must be run with the dataset available. Report final metrics only after checking the actual output.
 
