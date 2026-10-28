@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" alt="Brazilian E-Commerce Data Analysis Banner" width="100%">
+</p>
+
 # Brazilian E-Commerce Data Analysis (Olist)
 
 Exploratory data analysis of the Brazilian Olist e-commerce dataset using Python, Pandas, NumPy, and Matplotlib.
