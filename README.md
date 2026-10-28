@@ -85,6 +85,16 @@ The notebook is designed to produce eight visualizations:
 7. **Review-Score Distribution** — distribution of customer review scores.
 8. **Review Scores by Delivery Status** — comparison of review scores for on-time and late deliveries.
 
+## Key Insights
+
+- **Delivery and customer satisfaction:** Orders delivered on time had an average review score of **4.29**, compared with **2.57** for late deliveries.
+- **Sales trends:** Monthly order volume and GMV were analyzed to explore marketplace activity over time.
+- **Product performance:** Product categories were compared by GMV to identify the categories contributing most to item sales value.
+- **Geographic distribution:** GMV was analyzed by customer state to explore the marketplace's main regional markets.
+- **Delivery performance:** Delivery duration and punctuality were examined to better understand the delivery experience.
+
+**Business takeaway:** The difference in average review scores highlights the importance of monitoring delivery reliability alongside customer satisfaction. This is an association observed in the analysis, not proof that delivery delays alone caused lower scores.
+
 ## Key Metrics
 
 Depending on the fields available and the definitions used in the notebook, the analysis can calculate:
